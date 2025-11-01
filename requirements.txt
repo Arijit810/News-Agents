@@ -1,0 +1,12 @@
+langgraph
+langchain
+langchain-community
+langchain-core
+langsmith
+groq
+scikit-learn
+requests
+python-dotenv
+tiktoken
+langchain-groq
+duckduckgo-search
